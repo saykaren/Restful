@@ -1,5 +1,5 @@
 
-import '../Styling/App.css';
+import '../Styling/App.scss';
 
 function App() {
   return (
